@@ -1,5 +1,5 @@
 ![20221102_184103](https://user-images.githubusercontent.com/103543395/199492181-3e627580-1300-4ba3-b61c-348a93e96a0b.gif)
-![picasion com_grPx](https://user-images.githubusercontent.com/103543395/199494633-b46e9424-b7f1-4228-83a9-0b86cf769618.gif)
+![picasion com_grPE](https://user-images.githubusercontent.com/103543395/199495834-add9a405-0d25-47b8-a5c1-5194f6eaeb77.gif)
 # screenshort
 ![20221102_182951](https://user-images.githubusercontent.com/103543395/199492336-c05c9e4b-da01-4902-935b-6b37e01571bd.jpg)
 # Basi Installations ✅
