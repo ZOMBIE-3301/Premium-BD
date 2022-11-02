@@ -2,7 +2,7 @@
 ![picasion com_grPE](https://user-images.githubusercontent.com/103543395/199495834-add9a405-0d25-47b8-a5c1-5194f6eaeb77.gif)
 # screenshort
 ![20221102_182951](https://user-images.githubusercontent.com/103543395/199492336-c05c9e4b-da01-4902-935b-6b37e01571bd.jpg)
-# Basi Installations ✅
+# Basic Installations ✅
 
 pkg upgrade
 
@@ -17,6 +17,8 @@ pip install bs4
 pkg install git
 
 pip install rich
+
+pip install stdiomask
 
 # Run Script ⏺️
 
